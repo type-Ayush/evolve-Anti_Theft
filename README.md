@@ -140,7 +140,7 @@ An **AI‑based immobile anti‑theft device** that monitors and tracks stationa
 
 ## 🔌 4. Wiring and Schematic
 
-For **Wiring & Schematic**, please refer: [CIRCUIT.md](Electronics\CIRCUIT.md)
+For **Wiring & Schematic**, please refer: [CIRCUIT.md](Electronics/CIRCUIT.md)
 
 ## ⚙️ 5. Installation and Setup
 
