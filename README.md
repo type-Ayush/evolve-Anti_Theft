@@ -18,11 +18,129 @@ An **AI‑based immobile anti‑theft device** that monitors and tracks stationa
 ---
 
 ## 📋 3. Components Required (Bill of Materials - BOM)
+<table style="width:100%; border-collapse: collapse;">
+    <thead>
+        <tr>
+            <th colspan="3" style="background-color: #b3e5fc; padding: 10px; font-size: 1.1em; text-align: center;">CORE MICROCONTROLLER</th>
+        </tr>
+        <tr>
+            <th style="width:30%; border: 1px solid #ddd; padding: 8px;">Component</th>
+            <th style="width:20%; border: 1px solid #ddd; padding: 8px;">Image</th>
+            <th style="width:50%; border: 1px solid #ddd; padding: 8px;">Purpose/Notes</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="border: 1px solid #ddd; padding: 8px;">Arduino Uno R3</td>
+            <td style="border: 1px solid #ddd; padding: 8px;"><img src="assests\gallery\electronics\unor3.webp" alt="Arduino Uno R3" width="100%"> 
 
+
+</td>
+            <td style="border: 1px solid #ddd; padding: 8px;">The **Main Control Unit** for processing sensor data and controlling outputs.</td>
+        </tr>
+    </tbody>
+    <thead>
+        <tr>
+            <th colspan="3" style="background-color: #c8e6c9; padding: 10px; font-size: 1.1em; text-align: center;">SENSOR COMPONENTS</th>
+        </tr>
+        <tr>
+            <th style="width:30%; border: 1px solid #ddd; padding: 8px;">Component</th>
+            <th style="width:20%; border: 1px solid #ddd; padding: 8px;">Image</th>
+            <th style="width:50%; border: 1px solid #ddd; padding: 8px;">Purpose/Notes</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="border: 1px solid #ddd; padding: 8px;">Vibration Sensor (801S/801S-P)</td>
+            <td style="border: 1px solid #ddd; padding: 8px;"><img src="assests\gallery\electronics\vibrationsensor.webp" alt="Vibration Sensor" width="100%"></td>
+            <td style="border: 1px solid #ddd; padding: 8px;">Detects unauthorized physical **movement or shaking**.</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd; padding: 8px;">Touch Sensor (TTP223P)</td>
+            <td style="border: 1px solid #ddd; padding: 8px;"><img src="assests/gallery/electronics/touchsnsor.webp" alt="Touch Sensor" width="100%"></td>
+            <td style="border: 1px solid #ddd; padding: 8px;">Detects unauthorized **touch or contact**.</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd; padding: 8px;">Ultrasonic Sensor (HC-SR04)</td>
+            <td style="border: 1px solid #ddd; padding: 8px;"><img src="assests\gallery\electronics\ussnsor.webp" alt="Ultra Sonic Sensor" width="100%">
+
+
+</td>
+            <td style="border: 1px solid #ddd; padding: 8px;">Measures distance to surrounding objects or detects nearby **unauthorized motion**.</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd; padding: 8px;">RTC Module (e.g., DS3231/DS1307)</td>
+            <td style="border: 1px solid #ddd; padding: 8px;"><img src="assests\gallery\electronics\rtc.webp" alt="RTC Module" width="100%"></td>
+            <td style="border: 1px solid #ddd; padding: 8px;">Provides an **accurate real-time clock** for timestamping alerts.</td>
+        </tr>
+    </tbody>
+    <thead>
+        <tr>
+            <th colspan="3" style="background-color: #ffccbc; padding: 10px; font-size: 1.1em; text-align: center;">OUTPUTS AND INPUTS</th>
+        </tr>
+        <tr>
+            <th style="width:30%; border: 1px solid #ddd; padding: 8px;">Component</th>
+            <th style="width:20%; border: 1px solid #ddd; padding: 8px;">Image</th>
+            <th style="width:50%; border: 1px solid #ddd; padding: 8px;">Purpose/Notes</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="border: 1px solid #ddd; padding: 8px;">OLED Display</td>
+            <td style="border: 1px solid #ddd; padding: 8px;"><img src="assests\gallery\electronics\oled.webp" alt="OLED" width="100%">
+
+
+</td>
+            <td style="border: 1px solid #ddd; padding: 8px;">**Shows time, armed status,** and alert messages.</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd; padding: 8px;">Buzzer</td>
+            <td style="border: 1px solid #ddd; padding: 8px;"><img src="assests\gallery\electronics\buzzer.webp" alt="Buzzer" width="100%"></td>
+            <td style="border: 1px solid #ddd; padding: 8px;">Provides an immediate **audible alarm**.</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd; padding: 8px;">LEDs (Red, Green, Orange)</td>
+            <td style="border: 1px solid #ddd; padding: 8px;"><img src="assests\gallery\electronics\led.webp" alt="LED" width="100%">
+
+
+</td>
+            <td style="border: 1px solid #ddd; padding: 8px;">Provide **visual status indicators**.</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd; padding: 8px;">Tactile Push Button</td>
+            <td style="border: 1px solid #ddd; padding: 8px;"><img src="assests\gallery\electronics\pushbutton.webp" alt="Tacticle Push Button" width="100%">  
+
+
+</td>
+            <td style="border: 1px solid #ddd; padding: 8px;">Used as a local **input for arming/disarming** and menu navigation.</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd; padding: 8px;">Potentiometer</td>
+            <td style="border: 1px solid #ddd; padding: 8px;"><img src="assests/gallery/electronics/potentiometer.webp" alt="Potentiometer" width="100%">
+
+
+</td>
+            <td style="border: 1px solid #ddd; padding: 8px;">Used for **calibrating sensor sensitivity**.</td>
+        </tr>
+        <tr>
+        <td style="border: 1px solid #ddd; padding: 8px;">Mini Breadboard</td>
+        <td style="border: 1px solid #ddd; padding: 8px;">
+            <img src="assests\gallery\electronics\mini.webp" alt="Mini Breadboard" width="100px">
+        </td>
+        <td style="border: 1px solid #ddd; padding: 8px;">Used for **temporary, solderless prototyping** and arranging components easily.</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #ddd; padding: 8px;">Jumper Wires</td>
+        <td style="border: 1px solid #ddd; padding: 8px;">
+            <img src="assests\gallery\electronics\jumperwire.webp" alt="Assortment of Jumper Wires" width="100px"> </td>
+<td style="border: 1px solid #ddd; padding: 8px;">Used for **making electrical connections** between the Arduino, breadboard, and sensors.</td>
+    </tr>
+    </tbody>
+</table>
 
 ## 🔌 4. Wiring and Schematic
 
-
+For **Wiring & Schematic**, please refer: [CIRCUIT.md](Electronics\CIRCUIT.md)
 
 ## ⚙️ 5. Installation and Setup
 
@@ -70,7 +188,8 @@ The system operates in two modes—**Casual** and **Sensitive**—which can be t
 | **Casual Mode** | Raises **Suspicion** (Low Risk) | **Orange LED** lights up. OLED displays `SUSPICION DETECTED`. No buzzer sound. |
 | **Sensitive Mode** | Triggers **Critical Alert** (High Risk) | **Red LED** lights up. **Buzzer** sounds repeatedly. OLED displays `🚨 CRITICAL ALERT! MOTION DETECTED`. |
 
----
+For More Information, please refer: [EXPLAINATION.md](EXPLAINATION.md) 
+
 
 ## 🧠 7. Code Logic and AI Implementation
 
@@ -78,7 +197,7 @@ The core state machine, sensor data processing, and the details of the AI-based 
 
 > For a complete breakdown of the device's state machine, sensor data processing, and the specific algorithms/logic used for **AI-based theft prediction**, please see the **`explanation.md`** file in the repository root.
 >
-> **➡️ <!--[Link to `explanation.md` here]**-->
+> ➡️ [EXPLAINATION.md](EXPLAINATION.md) 
 
 ---
 
