@@ -36,7 +36,7 @@ An **AI‑based immobile anti‑theft device** that monitors and tracks stationa
 
 
 </td>
-            <td style="border: 1px solid #ddd; padding: 8px;">The **Main Control Unit** for processing sensor data and controlling outputs.</td>
+            <td style="border: 1px solid #ddd; padding: 8px;">The <strong>Main Control Unit</strong> for processing sensor data and controlling outputs.</td>
         </tr>
     </tbody>
     <thead>
@@ -53,12 +53,12 @@ An **AI‑based immobile anti‑theft device** that monitors and tracks stationa
         <tr>
             <td style="border: 1px solid #ddd; padding: 8px;">Vibration Sensor (801S/801S-P)</td>
             <td style="border: 1px solid #ddd; padding: 8px;"><img src="assests\gallery\electronics\vibrationsensor.webp" alt="Vibration Sensor" width="100%"></td>
-            <td style="border: 1px solid #ddd; padding: 8px;">Detects unauthorized physical **movement or shaking**.</td>
+            <td style="border: 1px solid #ddd; padding: 8px;">Detects unauthorized physical <strong>movement or shaking</strong>.</td>
         </tr>
         <tr>
             <td style="border: 1px solid #ddd; padding: 8px;">Touch Sensor (TTP223P)</td>
             <td style="border: 1px solid #ddd; padding: 8px;"><img src="assests/gallery/electronics/touchsnsor.webp" alt="Touch Sensor" width="100%"></td>
-            <td style="border: 1px solid #ddd; padding: 8px;">Detects unauthorized **touch or contact**.</td>
+            <td style="border: 1px solid #ddd; padding: 8px;">Detects unauthorized <strong>touch or contact</strong>.</td>
         </tr>
         <tr>
             <td style="border: 1px solid #ddd; padding: 8px;">Ultrasonic Sensor (HC-SR04)</td>
@@ -66,12 +66,12 @@ An **AI‑based immobile anti‑theft device** that monitors and tracks stationa
 
 
 </td>
-            <td style="border: 1px solid #ddd; padding: 8px;">Measures distance to surrounding objects or detects nearby **unauthorized motion**.</td>
+            <td style="border: 1px solid #ddd; padding: 8px;">Measures distance to surrounding objects or detects nearby <strong>unauthorized motion</strong>.</td>
         </tr>
         <tr>
             <td style="border: 1px solid #ddd; padding: 8px;">RTC Module (e.g., DS3231/DS1307)</td>
             <td style="border: 1px solid #ddd; padding: 8px;"><img src="assests\gallery\electronics\rtc.webp" alt="RTC Module" width="100%"></td>
-            <td style="border: 1px solid #ddd; padding: 8px;">Provides an **accurate real-time clock** for timestamping alerts.</td>
+            <td style="border: 1px solid #ddd; padding: 8px;">Provides an <strong>accurate real-time clock</strong> for timestamping alerts.</td>
         </tr>
     </tbody>
     <thead>
