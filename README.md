@@ -91,12 +91,12 @@ An **AI‑based immobile anti‑theft device** that monitors and tracks stationa
 
 
 </td>
-            <td style="border: 1px solid #ddd; padding: 8px;">**Shows time, armed status,** and alert messages.</td>
+            <td style="border: 1px solid #ddd; padding: 8px;"><strong>Shows time, armed status,</strong> and alert messages.</td>
         </tr>
         <tr>
             <td style="border: 1px solid #ddd; padding: 8px;">Buzzer</td>
             <td style="border: 1px solid #ddd; padding: 8px;"><img src="assests\gallery\electronics\buzzer.webp" alt="Buzzer" width="100%"></td>
-            <td style="border: 1px solid #ddd; padding: 8px;">Provides an immediate **audible alarm**.</td>
+            <td style="border: 1px solid #ddd; padding: 8px;">Provides an immediate <strong>audible alarm</strong>.</td>
         </tr>
         <tr>
             <td style="border: 1px solid #ddd; padding: 8px;">LEDs (Red, Green, Orange)</td>
@@ -104,7 +104,7 @@ An **AI‑based immobile anti‑theft device** that monitors and tracks stationa
 
 
 </td>
-            <td style="border: 1px solid #ddd; padding: 8px;">Provide **visual status indicators**.</td>
+            <td style="border: 1px solid #ddd; padding: 8px;">Provide <strong>visual status indicators</strong>.</td>
         </tr>
         <tr>
             <td style="border: 1px solid #ddd; padding: 8px;">Tactile Push Button</td>
@@ -112,7 +112,7 @@ An **AI‑based immobile anti‑theft device** that monitors and tracks stationa
 
 
 </td>
-            <td style="border: 1px solid #ddd; padding: 8px;">Used as a local **input for arming/disarming** and menu navigation.</td>
+            <td style="border: 1px solid #ddd; padding: 8px;">Used as a local ,<strong>input for arming/disarming</strong> and menu navigation.</td>
         </tr>
         <tr>
             <td style="border: 1px solid #ddd; padding: 8px;">Potentiometer</td>
@@ -120,20 +120,20 @@ An **AI‑based immobile anti‑theft device** that monitors and tracks stationa
 
 
 </td>
-            <td style="border: 1px solid #ddd; padding: 8px;">Used for **calibrating sensor sensitivity**.</td>
+            <td style="border: 1px solid #ddd; padding: 8px;">Used for <strong>calibrating sensor sensitivity</strong>.</td>
         </tr>
         <tr>
         <td style="border: 1px solid #ddd; padding: 8px;">Mini Breadboard</td>
         <td style="border: 1px solid #ddd; padding: 8px;">
             <img src="assests\gallery\electronics\mini.webp" alt="Mini Breadboard" width="100%">
         </td>
-        <td style="border: 1px solid #ddd; padding: 8px;">Used for **temporary, solderless prototyping** and arranging components easily.</td>
+        <td style="border: 1px solid #ddd; padding: 8px;">Used for <strong>temporary, solderless prototyping</strong> and arranging components easily.</td>
     </tr>
     <tr>
         <td style="border: 1px solid #ddd; padding: 8px;">Jumper Wires</td>
         <td style="border: 1px solid #ddd; padding: 8px;">
             <img src="assests\gallery\electronics\jumperwire.webp" alt="Assortment of Jumper Wires" width="100%"> </td>
-<td style="border: 1px solid #ddd; padding: 8px;">Used for **making electrical connections** between the Arduino, breadboard, and sensors.</td>
+<td style="border: 1px solid #ddd; padding: 8px;">Used for <strong>making electrical connections</strong> between the Arduino, breadboard, and sensors.</td>
     </tr>
     </tbody>
 </table>
