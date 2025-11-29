@@ -139,11 +139,11 @@ An **AI‑based immobile anti‑theft device** that monitors and tracks stationa
 </table>
 
 For Electronics Information, refer: [ELECTRONICS_DS](Electronics/ELECTRONICS_DS.md)
+> **Note:** Diffrent components have diffrent rating and diffrent functions by company variation. Please refer to the datasheet of that company only.
 
 ## 🔌 4. Wiring and Schematic
 
 For **Wiring & Schematic**, please refer: [CIRCUIT.md](Electronics/CIRCUIT.md)
-> **Note:** Diffrent components have diffrent rating and diffrent functions by company variation. Please refer to the datasheet of that company only.
 
 ## ⚙️ 5. Installation and Setup
 
