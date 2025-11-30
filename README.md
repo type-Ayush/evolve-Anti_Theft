@@ -120,7 +120,7 @@ An **AI‑based immobile anti‑theft device** that monitors and tracks stationa
 
 
 </td>
-            <td style="border: 1px solid #ddd; padding: 8px;">Used for <strong>calibrating sensor sensitivity</strong>.</td>
+            <td style="border: 1px solid #ddd; padding: 8px;">Used for <strong>buzzer volume control</strong>.</td>
         </tr>
         <tr>
         <td style="border: 1px solid #ddd; padding: 8px;">Mini Breadboard</td>
@@ -138,16 +138,16 @@ An **AI‑based immobile anti‑theft device** that monitors and tracks stationa
     <tr>
         <td style="border: 1px solid #ddd; padding: 8px;">Transistor</td>
         <td style="border: 1px solid #ddd; padding: 8px;">
-            <img src="assests\gallery\electronics\resistor.wbep" alt="Mini Breadboard" width="100%">
+            <img src="assests/gallery/electronics/transistor.webp" alt="Transistor" width="100%">
         </td>
-        <td style="border: 1px solid #ddd; padding: 8px;">Used for <strong>temporary, solderless prototyping</strong> and arranging components easily.</td>
+        <td style="border: 1px solid #ddd; padding: 8px;">Used as an <strong>automatic switch</strong> that controls the buzzer via Arduino.</td>
     </tr>
     <tr>
-        <td style="border: 1px solid #ddd; padding: 8px;">Mini Breadboard</td>
+        <td style="border: 1px solid #ddd; padding: 8px;">Resistor</td>
         <td style="border: 1px solid #ddd; padding: 8px;">
-            <img src="assests\gallery\electronics\mini.webp" alt="Mini Breadboard" width="100%">
+            <img src="assests/gallery/electronics/resistor.webp" alt="Resistor" width="100%">
         </td>
-        <td style="border: 1px solid #ddd; padding: 8px;">Used for <strong>temporary, solderless prototyping</strong> and arranging components easily.</td>
+        <td style="border: 1px solid #ddd; padding: 8px;">Used for <strong>dropping the potential diffrence</strong> to <b>protect the components</b> from high voltages</td>
     </tr>
     </tbody>
 </table>
