@@ -135,6 +135,20 @@ An **AI‑based immobile anti‑theft device** that monitors and tracks stationa
             <img src="assests\gallery\electronics\jumperwire.webp" alt="Assortment of Jumper Wires" width="100%"> </td>
 <td style="border: 1px solid #ddd; padding: 8px;">Used for <strong>making electrical connections</strong> between the Arduino, breadboard, and sensors.</td>
     </tr>
+    <tr>
+        <td style="border: 1px solid #ddd; padding: 8px;">Transistor</td>
+        <td style="border: 1px solid #ddd; padding: 8px;">
+            <img src="assests\gallery\electronics\resistor.wbep" alt="Mini Breadboard" width="100%">
+        </td>
+        <td style="border: 1px solid #ddd; padding: 8px;">Used for <strong>temporary, solderless prototyping</strong> and arranging components easily.</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #ddd; padding: 8px;">Mini Breadboard</td>
+        <td style="border: 1px solid #ddd; padding: 8px;">
+            <img src="assests\gallery\electronics\mini.webp" alt="Mini Breadboard" width="100%">
+        </td>
+        <td style="border: 1px solid #ddd; padding: 8px;">Used for <strong>temporary, solderless prototyping</strong> and arranging components easily.</td>
+    </tr>
     </tbody>
 </table>
 
