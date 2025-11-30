@@ -11,7 +11,7 @@ This document details the physical wiring connections of the AI Anti-Theft Devic
 
 For a clear visual guide to the placement and wiring of all components, refer to the following diagram:
 
-![Detailed Wiring Schematic](assests\gallery\evolve-Anti_Theft_CIRCUIT.webp)
+![Detailed Wiring Schematic](assests/gallery/evolve-Anti_Theft_CIRCUIT.webp)
 
 ---
 
@@ -46,7 +46,6 @@ The table below lists the required connections between the peripherals and the d
 > **Note:** Please confirm the potentiometer Signal is connected to Buzzer (+)
 <br><br>
 > **Note:** Use Breadboard to make circuit, the above given is a schematic diagram is for to understand.Also use the resistor as instructed.
-
 
 
 ---
